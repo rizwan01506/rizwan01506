@@ -27,6 +27,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react--native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SolidJS](https://img.shields.io/badge/solid--js-%2322232a.svg?style=for-the-badge&logo=solid&logoColor=%2344CCFF)
 ![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/react--query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
@@ -34,6 +36,8 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
@@ -46,17 +50,7 @@
 
 ---
 
+
 ### 📱 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/mdrizwan01506" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/mdrizwan01506/" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://x.com/mdrizwan01506" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-</p>
-
+<p> <a href="https://github.com/mdrizwan01506" target="_blank" title="GitHub"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mdrizwan01506/" target="_blank" title="LinkedIn"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /> </a>&nbsp;&nbsp;&nbsp; <a href="https://x.com/mdrizwan01506" target="_blank" title="Twitter / X"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter" /> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/mdrizwan01506" target="_blank" title="Facebook"> <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="36" height="36" alt="Facebook" /> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/mdrizwan01506/" target="_blank" title="Instagram"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="36" height="36" alt="Instagram" /> </a>&nbsp;&nbsp;&nbsp; </a> </p>
