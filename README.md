@@ -2,7 +2,7 @@
 <h3>🚀 Frontend Developer @ <a href="https://www.repozitory.com/" target="_blank">Repozitory Technology</a></h3>
 
 <p>
-  <strong>👨‍💻 With 4.5+ years of experience crafting beautiful and responsive user interfaces.</strong><br />
+  <strong>👨‍💻 With 5+ years of experience crafting beautiful and responsive user interfaces.</strong><br />
   I'm passionate about frontend development and love to build smooth, modern, and user-friendly UI experiences that work seamlessly across multiple devices.
 </p>
 
