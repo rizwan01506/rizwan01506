@@ -11,7 +11,7 @@
 ### 🧩 About Me
 
 - 🌍  I'm based in **India**  
-- 🖥️  Portfolio → [RizwanReactDev.dev](https://rizwan-react-dev.vercel.app/)  
+- 🖥️  Portfolio → [rizwan-react-dev.dev](https://rizwan-react-dev.vercel.app/)  
 - ✉️  Email → [rizwan01506@gmail.com](mailto:rizwan01506@gmail.com)  
 - 🧠  Currently learning **NodeJS**  
 - 🤝  Open to collaborating on frontend-focused projects  
